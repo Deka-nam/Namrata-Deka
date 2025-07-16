@@ -98,7 +98,7 @@ Our dream? To move from reactive care to **predictive microbiology**.
 
 **We are not just sequencing genomes. We are decoding a survival strategy.**
 
-Let us show you how a bug that makes stones is reshaping our understanding of **infection, resistance, and evolution. ****
+Let us show you how a bug that makes stones is reshaping our understanding of **infection, resistance, and evolution.****
 
 Stay curious,  
 Namrata from Team Armbruster
