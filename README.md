@@ -16,6 +16,7 @@ Profile
 - Data visualization and exploration using Python (`matplotlib`, `seaborn`) and R (`ggplot2`)  
 - Development of reproducible, modular pipelines for microbial comparative genomics  
 - Metagenomic profiling of catheterized urine samples using Kraken2 and MetaPhlAn
+- Read more on the motivations behind my [PhD project](big_bad_proteus.md)
 
 ---
 
