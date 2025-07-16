@@ -13,8 +13,9 @@ This little bacterium is:
 - A **swarming strategist** on agar and inside the host.
 - A **resistance chameleon**, evolving under therapeutic pressure.
 
-> ![Swarming agar](pics/swarm1)
-> ![Swarming micro](pics/swarm2)
+> <img src="pics/swarm1.JPG" alt="Swarming agar" width="300">
+> <img src="pics/swarm2.jpg" alt="Swarming micro" width="300">
+
 > *Figure 1. Swarming behavior of *P. mirabilis* on agar and under the microscope. Fast, coordinated, and beautiful.*
 
 ---
@@ -100,4 +101,4 @@ Our dream? To move from reactive care to **predictive microbiology**.
 Let us show you how a bug that makes stones is reshaping our understanding of **infection, resistance, and evolution. ****
 
 Stay curious,  
-Namrata & Team  
+Namrata from Team Armbruster
