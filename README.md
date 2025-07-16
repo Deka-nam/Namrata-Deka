@@ -10,8 +10,9 @@ Profile
 
 ## Current Focus
 
-- Genome assembly and annotation of *Proteus mirabilis* clinical isolates using SPAdes and Prokka  
-- Pangenome and antimicrobial resistance (AMR) profiling with Roary, AMRFinderPlus, and MLST  
+- Genome assembly and annotation of *Proteus mirabilis* clinical isolates and gaining phylogenetic insights. 
+- Pangenome and antimicrobial resistance (AMR) profiling.
+- Comparative genomics of urine *P. mirabilis* isolates. 
 - Data visualization and exploration using Python (`matplotlib`, `seaborn`) and R (`ggplot2`)  
 - Development of reproducible, modular pipelines for microbial comparative genomics  
 - Metagenomic profiling of catheterized urine samples using Kraken2 and MetaPhlAn
@@ -31,8 +32,10 @@ Profile
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Genome Analysis Pipeline](https://github.com/Deka-nam/genome-analysis-pipeline) | Genomic analysis of *P. mirabilis* isolates from catheterized urine | SPAdes, Prokka, Roary, AMRFinder |
-| [AMR Visualization Notebooks](https://github.com/Deka-nam/amr-viz) | Data viz project for AMR genes across clinical isolates | Python + seaborn |
+| [Genome Analysis Pipeline](https://github.com/Deka-nam/genome-analysis-pipeline) | Genomic analysis of *P. mirabilis* isolates from catheterized urine | SPAdes + Prokka + Roary + RAxML + iTol + AMRFinder |
+| [Longitudinal Varient Study](https://github.com/Deka-nam/longitudinal-variants) | Varient detection project across longitudinal *P. mirabilis* clinical isolates | Unicycler + Breseq + Python + R |
+| [Metagenomic Analysis of Urine](http://github.com/Deka-nam/urine-metagenomics) | Metagenomic analysis of catheterized urine | Kraken2 + SAMtools + MetaPhlan + Python + R |
+| [Proteomics Visualization Notebooks](http://github.com/Deka-nam/proteomics-viz)| Best practices for visualizing proteomics data | Python + R |
 
 ---
 
