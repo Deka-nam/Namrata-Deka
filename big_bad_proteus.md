@@ -31,8 +31,14 @@ This bug produces urease, which raises the pH of urine and causes **struvite cry
 - **Block catheters**
 - Create **niches** that are hard to sterilize
 
-> *[catheter encrustation]*  
-> *Figure 2. A catheter affected by crystalline biofilms.*
+> <div align="center">
+>   <img src="pics/stones1_bright.png" alt="Encrustation 1" width="250" style="margin: 5px;">
+>   <img src="pics/stones2_bright.png" alt="Encrustation 2" width="250" style="margin: 5px;">
+>   <img src="pics/stones3_bright.png" alt="Encrustation 3" width="250" style="margin: 5px;">
+> </div>
+>
+> *Figure 2. Catheters with crystalline biofilms in the presence of P. mirabilis in Artificial Urine Media (AUM).*
+
 
 ---
 
