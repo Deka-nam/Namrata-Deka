@@ -15,8 +15,8 @@ This little bacterium is:
 
 > <img src="pics/swarm1.JPG" alt="Swarming agar" width="300">
 > <img src="pics/swarm2.jpg" alt="Swarming micro" width="300">
-
-> *Figure 1. Swarming behavior of *P. mirabilis* on agar and under the microscope. Fast, coordinated, and beautiful.*
+>
+> *Figure 1. Swarming behavior of *P. mirabilis* on agar and under the microscope.* **Fast, coordinated, and beautiful.**
 
 ---
 
@@ -32,9 +32,9 @@ This bug produces urease, which raises the pH of urine and causes **struvite cry
 - Create **niches** that are hard to sterilize
 
 > <div align="center">
->   <img src="pics/stones1_bright.png" alt="Encrustation 1" width="250" style="margin: 5px;">
->   <img src="pics/stones2_bright.png" alt="Encrustation 2" width="250" style="margin: 5px;">
->   <img src="pics/stones3_bright.png" alt="Encrustation 3" width="250" style="margin: 5px;">
+>   <img src="pics/stones1_bright.png" alt="Encrustation 1" width="275" style="margin: 5px;">
+>   <img src="pics/stones2_bright.png" alt="Encrustation 2" width="236" style="margin: 5px;">
+>   <img src="pics/stones3_bright.png" alt="Encrustation 3" width="355" style="margin: 5px;">
 > </div>
 >
 > *Figure 2. Catheters with crystalline biofilms in the presence of P. mirabilis in Artificial Urine Media (AUM).*
@@ -44,7 +44,7 @@ This bug produces urease, which raises the pH of urine and causes **struvite cry
 
 ### 2. **It Evolves Rapidly Over Time**
 
-We are looking at **longitudinal isolates** from the same patient across time.  
+We are examining **longitudinal isolates** from the same patient over time.  
 Why? Because we want to answer:
 - How does *P. mirabilis* adapt under **host pressure**?
 - How fast does it accumulate **mutations**?
@@ -104,7 +104,7 @@ Our dream? To move from reactive care to **predictive microbiology**.
 
 **We are not just sequencing genomes. We are decoding a survival strategy.**
 
-Let us show you how a bug that makes stones is reshaping our understanding of **infection, resistance, and evolution.****
+Let us show you how a bug that makes stones is reshaping our understanding of **infection, resistance, and evolution.**
 
 Stay curious,  
 Namrata from Team Armbruster
