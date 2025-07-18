@@ -98,6 +98,11 @@ Our dream? To move from reactive care to **predictive microbiology**.
 - It can **survive harsh surfaces** and form crystalline biofilms.
 - It is **misidentified** often in labs that skip MALDI or 16S.
 
+## Interpretations of *P. mirabilis*, Illustrated
+> <div align="center">
+>   <img src="pics/sketch1.jpeg" alt="sketch 1" width="275" style="margin: 5px;">
+> </div>
+>
 ---
 
 ##  TL;DR
