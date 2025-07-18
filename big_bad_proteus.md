@@ -1,9 +1,8 @@
 # Why *Proteus mirabilis* Deserves Your Attention
-date: 2025-07-16
-> If you are interested to know more about why the project is based on this bacteria, have a read to know the big picture impact. I know we all want to know the pipelines, but what motivated us to build the workflow in the first place? 
+Date: 2025-07-16
+> If you are interested to know more about why my PhD project is based on this bacteria, have a read to know the big picture impact. I know we all want to know the pipelines, but what motivated us to build the workflow in the first place? 
 Because I am not just a bioinformatician, I am a hybrid scientist. Bench science and dry lab bring out the real fun!
-
-“It is not just a bug. It is a builder, a breaker, and a survivor.”  
+  
 
 ##  Wait, What Is *Proteus mirabilis*?
 
@@ -35,10 +34,10 @@ This bug produces urease, which raises the pH of urine and causes **struvite cry
 >   <img src="pics/stones1_bright.png" alt="Encrustation 1" width="275" style="margin: 5px;">
 >   <img src="pics/stones2_bright.png" alt="Encrustation 2" width="236" style="margin: 5px;">
 >   <img src="pics/stones3_bright.png" alt="Encrustation 3" width="355" style="margin: 5px;">
-> </div>
+
 >
 > *Figure 2. Catheters with crystalline biofilms in the presence of P. mirabilis in Artificial Urine Media (AUM) Credit: Dr. Beryl L. Guterman, PhD.*
-
+> </div>
 
 ---
 
@@ -62,7 +61,7 @@ Why? Because we want to answer:
 - **Efflux pumps** 
 - **Plasmid-borne genes** 
 
-By studying the **pan-genome**, we can spot what’s common, what is accessory, and what might be responsible for real-world clinical challenges.
+By studying the **pan-genome**, we can spot what is common, what is accessory, and what might be responsible for real-world clinical challenges.
 
 > *[Insert phylogeny or Roary pan-genome plot]*  
 > *Figure 4. Genetic diversity among *P. mirabilis* isolates.*
@@ -100,9 +99,11 @@ Our dream? To move from reactive care to **predictive microbiology**.
 
 ## Interpretations of *P. mirabilis*, Illustrated
 > <div align="center">
->   <img src="pics/sketch1.jpeg" alt="sketch 1" width="275" style="margin: 5px;">
+> <img src="pics/sketch1.jpeg" alt="sketch 1" width="275" style="margin: 5px;">
+> <img src="pics/sketch2.jpeg" alt="sketch 1" width="296" style="margin: 5px;">
+  
+> **It is not just a bug. It is a builder, a breaker, and a survivor.**
 > </div>
->
 ---
 
 ##  TL;DR
