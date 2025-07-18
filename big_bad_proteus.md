@@ -37,7 +37,7 @@ This bug produces urease, which raises the pH of urine and causes **struvite cry
 >   <img src="pics/stones3_bright.png" alt="Encrustation 3" width="355" style="margin: 5px;">
 > </div>
 >
-> *Figure 2. Catheters with crystalline biofilms in the presence of P. mirabilis in Artificial Urine Media (AUM).*
+> *Figure 2. Catheters with crystalline biofilms in the presence of P. mirabilis in Artificial Urine Media (AUM) Credit: Dr. Beryl L. Guterman, PhD.*
 
 
 ---
