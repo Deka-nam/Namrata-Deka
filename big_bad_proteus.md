@@ -101,6 +101,7 @@ Our dream? To move from reactive care to **predictive microbiology**.
 > <div align="center">
 > <img src="pics/sketch1.jpeg" alt="sketch 1" width="275" style="margin: 5px;">
 > <img src="pics/sketch2.jpeg" alt="sketch 1" width="296" style="margin: 5px;">
+> <img src="pics/pmsketch3.png" alt="sketch 1" width="550" style="margin: 5px;">
   
 > **It is not just a bug. It is a builder, a breaker, and a survivor.**
 > </div>
