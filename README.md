@@ -1,10 +1,19 @@
 # Namrata-Deka
-Profile
+[Profile](https://medicine.buffalo.edu/phdprogram/about/our-students.host.html/content/shared/smbs/igpbs/profiles/previous-ppbs-students/ndeka.detail.overview.html)
 # Hi, I am Namrata Deka
 - PhD Candidate in Microbiology and Immunology at the University at Buffalo | Armbruster Lab
+- Microbial Genomics | AMR | Bioinformatics | Wet-lab & Computational Biology
+  > ![Lab picture](pic1.jpg)
+  > ![With Dr. CE Armbruster] (pic2.jpg)
   
-- Self-taught in bioinformatics through hands-on projects and open-source tools.
-- Translating microbial benchwork into actionable insights through computational analysis.
+## About Me
+
+I am a microbiologist and bioinformatician focused on understanding microbial evolution and antimicrobial resistance (AMR) in clinical pathogens. I bridge **wet-lab benchwork** with **computational pipelines** to uncover patterns in genomic plasticity, resistance, and host-pathogen dynamics.  
+
+Self-taught in bioinformatics, I love translating raw sequencing data into meaningful insights — whether it is genome assembly, phylogenetics, or metagenomics.
+
+- [AHA predoctoral fellowship](https://medicine.buffalo.edu/news_and_events/news/2024/07/aha-predoctoral-fellowships-20082.html)
+-  [Namrata Deka AHA Award details](https://proposalcentral.com/Insights/yK3zgRfRQcI=/Public/AwardDetails/1195538)
 
 ---
 
@@ -12,12 +21,11 @@ Profile
 
 - Genome assembly and annotation of *Proteus mirabilis* clinical isolates and gaining phylogenetic insights. 
 - Pangenome and antimicrobial resistance (AMR) profiling.
-- Comparative genomics of urine *P. mirabilis* isolates. 
+- Comparative genomics of longitudinal urine *P. mirabilis* isolates. 
 - Data visualization and exploration using Python (`matplotlib`, `seaborn`) and R (`ggplot2`)  
 - Development of reproducible, modular pipelines for microbial comparative genomics  
 - Metagenomic profiling of catheterized urine samples using Kraken2 and MetaPhlAn
 - Read more on the motivations behind my [PhD project](big_bad_proteus.md)
-
 ---
 
 ## Tools & Skills
@@ -44,4 +52,9 @@ Profile
 
 -  [LinkedIn](https://linkedin.com/in/namratadeka)
 -  [GitHub](https://github.com/Deka-nam)
+-  [Google Scholar](https://scholar.google.com/citations?user=nFb4zb4AAAAJ&hl=en&oi=ao) 
 -  Email: ndeka@buffalo.edu
+
+>Learn more: [Why I study Proteus mirabilis](big_bad_proteus.md)
+
+> *Built by Namrata Deka — microbial genomics researcher passionate about solving translational questions through NGS, pipelines, and integrative biology.*
