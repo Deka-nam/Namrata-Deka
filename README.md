@@ -58,6 +58,6 @@ Self-taught in bioinformatics, I love translating raw sequencing data into meani
 -  [Google Scholar](https://scholar.google.com/citations?user=nFb4zb4AAAAJ&hl=en&oi=ao) 
 -  Email: ndeka@buffalo.edu
 
->Learn more: [Why I study Proteus mirabilis](big_bad_proteus.md)
+>Learn more: [Why I study *Proteus mirabilis*](big_bad_proteus.md)
 
 > *Built by Namrata Deka — microbial genomics researcher passionate about solving translational questions through NGS, pipelines, and integrative biology.*
