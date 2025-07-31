@@ -3,8 +3,11 @@
 # Hi, I am Namrata Deka
 - PhD Candidate in Microbiology and Immunology at the University at Buffalo | Armbruster Lab
 - Microbial Genomics | AMR | Bioinformatics | Wet-lab & Computational Biology
-  > ![Lab picture](pic1.jpg)
-  > ![With Dr. CE Armbruster] (pic2.jpg)
+
+  
+  > <img src="pic1.jpg" alt="lab picture" width="200">
+  > <img src="pic2.jpg" alt="with Dr. CE Armbruster" width="300">
+  > <img src="pic3.JPG" alt="lab proup" width="355">
   
 ## About Me
 
