@@ -12,8 +12,8 @@ This little bacterium is:
 - A **swarming strategist** on agar and inside the host.
 - A **resistance chameleon**, evolving under therapeutic pressure.
 
-> <img src="pics/swarm1.JPG" alt="Swarming agar" width="300">
-> <img src="pics/swarm2.jpg" alt="Swarming micro" width="300">
+> <img src="pics/swarm1.JPG" alt="Namrata Deka data: Swarming agar" width="300">
+> <img src="pics/swarm2.jpg" alt="Namrata Deka data: Swarming *P. mirabilis* 40X" width="300">
 >
 > *Figure 1. Swarming behavior of *P. mirabilis* on agar and under the microscope.* **Fast, coordinated, and beautiful.**
 
@@ -31,9 +31,9 @@ This bug produces urease, which raises the pH of urine and causes **struvite cry
 - Create **niches** that are hard to sterilize
 
 > <div align="center">
->   <img src="pics/stones1_bright.png" alt="Encrustation 1" width="275" style="margin: 5px;">
->   <img src="pics/stones2_bright.png" alt="Encrustation 2" width="236" style="margin: 5px;">
->   <img src="pics/stones3_bright.png" alt="Encrustation 3" width="355" style="margin: 5px;">
+>   <img src="pics/stones1_bright.png" alt="Namrata Deka data: Encrustation 1" width="275" style="margin: 5px;">
+>   <img src="pics/stones2_bright.png" alt="Namrata Deka data:Encrustation 2" width="236" style="margin: 5px;">
+>   <img src="pics/stones3_bright.png" alt="Namrata Deka data:Encrustation 3" width="355" style="margin: 5px;">
 
 >
 > *Figure 2. Catheters with crystalline biofilms in the presence of P. mirabilis in Artificial Urine Media (AUM) Credit: Dr. Beryl L. Guterman, PhD.*
@@ -99,9 +99,9 @@ Our dream? To move from reactive care to **predictive microbiology**.
 
 ## Interpretations of *P. mirabilis*, Illustrated
 > <div align="center">
-> <img src="pics/sketch1.jpeg" alt="sketch 1" width="275" style="margin: 5px;">
-> <img src="pics/sketch2.jpeg" alt="sketch 1" width="296" style="margin: 5px;">
-> <img src="pics/pmsketch3.png" alt="sketch 1" width="550" style="margin: 5px;">
+> <img src="pics/sketch1.jpeg" alt="Namrata Deka Sketch: *P. mirabilis* as an urinary tract stone mason" width="275" style="margin: 5px;">
+> <img src="pics/sketch2.jpeg" alt="Namrata Deka Sketch: *P. mirabilis* and AMR1 " width="296" style="margin: 5px;">
+> <img src="pics/pmsketch3.png" alt="Namrata Deka Sketch: *P. mirabilis* building AMR strength" width="550" style="margin: 5px;">
   
 > **It is not just a bug. It is a builder, a breaker, and a survivor.**
 > </div>
@@ -114,4 +114,4 @@ Our dream? To move from reactive care to **predictive microbiology**.
 Let us show you how a bug that makes stones is reshaping our understanding of **infection, resistance, and evolution.**
 
 Stay curious,  
-Namrata from Team Armbruster
+[Namrata](README.md) from Team Armbruster
