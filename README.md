@@ -7,7 +7,6 @@
   
   > <img src="pic1.jpg" alt="Namrata Deka working in the bench" width="200">
   > <img src="pic2.jpg" alt="Namrata Deka with Dr. Chelsie E. Armbruster" width="300">
-  > <img src="pic3.JPG" alt="Namrata Deka in the Armbruster lab group, SUNY Buffalo" width="355">
   
 ## About Me
 
